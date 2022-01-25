@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tysro
-- 🌱 I’m currently learning Django
+
 
 
 <!---
